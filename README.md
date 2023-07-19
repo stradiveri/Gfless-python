@@ -1,5 +1,5 @@
 # Gfless-python
-Simple python implementation of Gfless by Hatz https://github.com/hatz02/GflessClient
+Simple python implementation of Hatzes Gfless https://github.com/hatz02/GflessClient
 
 # Warning
 This was meant to be a simple script that I intended for my personal use.

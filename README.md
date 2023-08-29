@@ -1,6 +1,6 @@
 # Gfless-python
 Simple python implementation of Hatzes Gfless https://github.com/hatz02/GflessClient
-You need to download this to make it work and start it https://ufile.io/iwinl75u
+You need to download this to make it work and start it https://ufile.io/iwinl75u and start the .exe file
 
 # Warning
 This was meant to be a simple script that I intended for my personal use.
